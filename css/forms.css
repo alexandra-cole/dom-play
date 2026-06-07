@@ -2,8 +2,6 @@
 form>div {
     margin:1em; /*Top Right Bottom Left*/
 }
-
-
 /* keeps form from bunching up to left */
 @media all and (min-width:501px){
     div.wrapper form{
@@ -12,7 +10,6 @@ form>div {
 }
 
 /* start reCAPTCHA styles */
-		
 /* writes to small text above reCAPTCHA upon failure */
 .dateFeedback{
     font-style:italic;
@@ -48,5 +45,3 @@ legend {
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
 }
-
-/* end reCAPTCHA styles */
